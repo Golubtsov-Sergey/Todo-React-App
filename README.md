@@ -5,12 +5,12 @@ This project demonstrates the core concepts of React: component-based architectu
 
 🚀 Live Demo
 
-Try the App here
-(Note: Please configure GitHub Pages for this repo to make the link work)
+Try the App here - https://golubtsov-sergey.github.io/Todo-React-App/
 
 📱 Preview
 
-(Please upload a screenshot to an assets folder)
+<img width="591" height="431" alt="image" src="https://github.com/user-attachments/assets/3dd2d3f3-ceb0-417b-99b1-4621fbfca209" />
+
 
 🛠 Tech Stack
 
